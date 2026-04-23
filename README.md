@@ -37,17 +37,21 @@ I am a **Versatile Software Engineer** with a passion for building secure, scala
 - ✈️ **Traveling:** Exploring new cultures and places to get fresh perspectives.
 
 ---
+### 📫 Connect with me
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Laith's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/laith-sorki-a3b222273" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/laith.sorki" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="30" width="30" />
+  </a>
+  <a href="https://t.me/Engineer96a6" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
+  </a>
+  <a href="https://wa.me/963965329661" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30" />
+  </a>
+</p>
 
 ---
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
